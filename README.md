@@ -10,15 +10,29 @@
   * https://www.bilibili.com/video/BV12a411q7H9/?share_source=copy_web&vd_source=7b1785441c0dd1d241219e21674def48
 
 
+## 编程能力
+* XXX
+
+
 ## 数学基础
  * Matrix Calculus for Machine Learning and Beyond
    * https://github.com/mitmath/matrixcalc
 
 
-## 领域基础
-1.【GAN】</br>
-
-2.【扩散模型】</br>
+## 机器学习
+* XXX
 
 
-## 代码提升
+## 深度学习
+* XXX
+
+## 生成模型
+* 【GAN】</br>
+
+* 【扩散模型】</br>
+
+
+## 知识蒸馏
+* XXX
+
+
